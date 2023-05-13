@@ -1,0 +1,650 @@
+{
+    "categories":[
+        {"id":"1",
+        "title":"Furniture",
+        "pic":"https://img.freepik.com/premium-psd/picture-frame-mockup-psd-hanging-modern-living-room-home-decor-interior_53876-114536.jpg?w=900"
+    },
+        {"id":"2",
+        "title":"Hand Bag",
+        "pic":"https://img.freepik.com/premium-photo/woman-leather-fashion-bag_1339-78940.jpg?size=626&ext=jpg&ga=GA1.1.1846942561.1682527688&semt=robertav1_2_sidr"
+    },
+        {"id":"3",
+        "title":"Books",
+        "pic":"https://img.freepik.com/free-photo/front-view-stacked-books-ladders-education-day_23-2149241046.jpg?size=626&ext=jpg&ga=GA1.2.1846942561.1682527688&semt=robertav1_2_sidr"
+    },
+        {"id":"4",
+        "title":"Tech",
+        "pic":"https://img.freepik.com/free-photo/cloud-technology-with-futuristic-hologram-smartwatch_53876-124625.jpg?size=626&ext=jpg&ga=GA1.2.1846942561.1682527688&semt=robertav1_2_sidr"
+    },
+        {"id":"5",
+        "title":"Sneakers",
+        "pic":"https://img.freepik.com/free-photo/basic-white-sneakers-unisex-streetwear-fashion-shoot_53876-102115.jpg?size=626&ext=jpg&ga=GA1.2.1846942561.1682527688&semt=robertav1_2_sidr"
+    },
+        {"id":"6",
+        "title":"Travel",
+        "pic":"https://img.freepik.com/free-photo/flat-lay-yellow-luggage-with-copy-space_23-2148786124.jpg?size=626&ext=jpg&ga=GA1.2.1846942561.1682527688&semt=robertav1_2_sidr"
+    }
+    ],
+    "carousel":[
+        {"id":"1" ,
+        "title":"HomePod Mini",
+        "pic":"https://img.freepik.com/free-photo/smart-speaker-house-control-innovative-technology_53876-102350.jpg?size=626&ext=jpg&ga=GA1.1.1846942561.1682527688&semt=robertav1_2_sidr",
+        "ratings":"5",
+        "ratingNumber":"140",
+        "price":"99.00"
+    },
+        {"id":"2" ,
+        "title":"Instax Mini 9",
+        "pic":"https://img.freepik.com/free-photo/mini-instant-camera-empty-border-frame-blue-background_23-2147916441.jpg?size=626&ext=jpg&ga=GA1.1.1846942561.1682527688&semt=robertav1_2_sidr",
+        "ratings":"5",
+        "ratingNumber":"140",
+        "price":"99.00"
+    },
+        {"id":"3" ,
+        "title":"Base Camp Duffer M",
+        "pic":"https://img.freepik.com/free-photo/binoculars-backpack-grass_23-2147833111.jpg?size=626&ext=jpg&ga=GA1.1.1846942561.1682527688&semt=robertav1_2_sidr",
+        "ratings":"5",
+        "ratingNumber":"140",
+        "price":"99.00"
+    },
+        {"id":"4" ,
+        "title":"Tote Medium",
+        "pic":"https://img.freepik.com/premium-photo/empty-fabric-shopping-bag-white-background_93675-138750.jpg?size=626&ext=jpg&ga=GA1.2.1846942561.1682527688&semt=robertav1_2_sidr",
+        "ratings":"5",
+        "ratingNumber":"140",
+        "price":"99.00"
+    },
+        {"id":"5" ,
+        "title":"Laptop Sleeve MacBook",
+        "pic":"https://img.freepik.com/free-photo/white-digital-tablet-case_53876-96811.jpg?size=626&ext=jpg&ga=GA1.2.1846942561.1682527688&semt=robertav1_2_sidr",
+        "ratings":"5",
+        "ratingNumber":"140",
+        "price":"99.00"
+    },
+        {"id":"6" ,
+        "title":"Pendleton Water Bottle",
+        "pic":"https://img.freepik.com/premium-photo/orange-insulated-flask-with-mountain-background_759095-4483.jpg?size=626&ext=jpg&ga=GA1.2.1846942561.1682527688&semt=robertav1_2_sidr",
+        "ratings":"5",
+        "ratingNumber":"140",
+        "price":"99.00"
+    },
+        {"id":"7" ,
+        "title":"Hand Watch",
+        "pic":"https://img.freepik.com/premium-photo/black-modern-smart-watch-mockup-with-strap-white-background-3d-rendering_476612-18548.jpg?size=626&ext=jpg&ga=GA1.2.1846942561.1682527688&semt=robertav1_2_sidr",
+        "ratings":"5",
+        "ratingNumber":"140",
+        "price":"99.00"
+    },
+        {"id":"8" ,
+        "title":"AirPods Max",
+        "pic":"https://img.freepik.com/premium-photo/kyiv-ukraine-2021-11-21-new-apple-airpods-3-wireless-charging_219766-217.jpg?size=626&ext=jpg&ga=GA1.1.1846942561.1682527688&semt=robertav1_2_sidr",
+        "ratings":"5",
+        "ratingNumber":"140",
+        "price":"99.00"
+    }
+    ],
+    "brands":[
+        {"id":"1" ,
+        "title":"Staples",
+        "desc":"Delivery within 24 hours",
+        "pic":"https://cdn.dribbble.com/users/1279604/screenshots/6277336/staples_myversion_4x.jpg"
+    },
+        {"id":"2" ,
+        "title":"Sprouts",
+        "desc":"Delivery within 24 hours",
+        "pic":"https://cdn.winsightmedia.com/platform/files/public/2020-08/background/sprouts-logo_1598024112.png?KNbgIkye87QnZeux2Fr5JejAVOM3f_hc"
+    },
+        {"id":"3" ,
+        "title":"Grocery Outlet",
+        "desc":"Delivery within 24 hours",
+        "pic":"https://th.bing.com/th/id/OIP.QnMk95hcINxs1v7eCzpCZgHaE8?pid=ImgDet&rs=1"
+    },
+        {"id":"4" ,
+        "title":"Mollie Stones",
+        "desc":"Delivery within 24 hours",
+        "pic":"https://th.bing.com/th?id=OIP.9O7vMkSoM99j6ASEE-dfHAHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2"
+    },
+        {"id":"5" ,
+        "title":"Sports Basement",
+        "desc":"Delivery within 24 hours",
+        "pic":"https://th.bing.com/th?id=OIP.aB_UPrgv28-EzdxoLYgcggHaDh&w=350&h=166&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2"
+    },
+        {"id":"6" ,
+        "title":"Container Store",
+        "desc":"Delivery within 24 hours",
+        "pic":"https://th.bing.com/th?id=OIP.MEly60v7CUwrxp1mOhCPjgHaEy&w=310&h=201&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2"
+    },
+        {"id":"7" ,
+        "title":"Target",
+        "desc":"Delivery within 24 hours",
+        "pic":"https://th.bing.com/th?id=OIP.7UFM7Ttjr1ZAWYWL42efAgHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2"
+    },
+        {"id":"8" ,
+        "title":"Bevmo!",
+        "desc":"Delivery within 24 hours",
+        "pic":"https://th.bing.com/th/id/OIP.cLRCfby7d-A8FShJZvxTiQAAAA?pid=ImgDet&w=237&h=150&rs=1"
+    }
+    ],
+    "selling":[
+        {
+            "id":"1",
+            "title":"Instax Mini 11",
+            "pic":"https://img.freepik.com/free-photo/mini-blue-instant-camera-gray-desk-against-pink-background_23-2147916479.jpg?size=626&ext=jpg&ga=GA1.1.1846942561.1682527688&semt=ais",
+            "price":"80"
+        },
+        {
+            "id":"2",
+            "title":"Hand Watch",
+            "pic":"https://img.freepik.com/free-photo/stylish-golden-watch-white-surface_181624-27078.jpg?size=626&ext=jpg&ga=GA1.2.1846942561.1682527688&semt=ais",
+            "price":"58"
+        },
+        {
+            "id":"3",
+            "title":"Adidas Sneakers",
+            "pic":"https://img.freepik.com/free-vector/color-sport-sneaker_98292-3191.jpg?size=626&ext=jpg&ga=GA1.2.1846942561.1682527688&semt=ais",
+            "price":"179"
+        },
+        {
+            "id":"4",
+            "title":"Piston Water Bottle",
+            "pic":"https://img.freepik.com/premium-photo/orange-insulated-flask-with-mountain-background_759095-4483.jpg?size=626&ext=jpg&ga=GA1.2.1846942561.1682527688&semt=robertav1_2_sidr",
+            "price":"99"
+        },
+        {
+            "id":"5",
+            "title":"Gaming HeadPhone",
+            "pic":"https://img.freepik.com/free-photo/various-wireless-devices-yellow-table_140725-9018.jpg?size=626&ext=jpg&ga=GA1.1.1846942561.1682527688&semt=ais",
+            "price":"239"
+        },
+        {
+            "id":"6",
+            "title":"Base Camp Duffel M",
+            "pic":"https://img.freepik.com/free-photo/binoculars-backpack-grass_23-2147833111.jpg?size=626&ext=jpg&ga=GA1.1.1846942561.1682527688&semt=ais",
+            "price":"159"
+        },
+        {
+            "id":"7",
+            "title":"Tomford Watch",
+            "pic":"https://img.freepik.com/premium-vector/fashion-mens-gold-stainless-steel-watches-luxury-minimalist-quartz-wrist-watch-men-business-casual_268834-833.jpg?size=626&ext=jpg&ga=GA1.2.1846942561.1682527688&semt=ais",
+            "price":"590"
+        },
+        {
+            "id":"8",
+            "title":"Cabin",
+            "pic":"https://img.freepik.com/free-photo/blue-travel-suitcase-near-window-wooden-floor_23-2147958234.jpg?size=626&ext=jpg&ga=GA1.1.1846942561.1682527688&semt=ais",
+            "price":"59"
+        }
+    ],
+    "Gadgets":[
+        {
+            "id":"1",
+            "title":"Pink Wireless Headphone",
+            "pic":"https://img.freepik.com/free-photo/pink-headphones-wireless-digital-device_53876-96804.jpg?w=900&t=st=1682683486~exp=1682684086~hmac=d093281596df3d28f2cae95d8c3f5178d6a6958866130ffce56c9c039ddf1954",
+            "price":"80"
+        },
+        {
+            "id":"2",
+            "title":"Smart Watch",
+            "pic":"https://img.freepik.com/premium-psd/realistic-smart-watch-mockup_165789-534.jpg?w=900",
+            "price":"58"
+        },
+        {
+            "id":"3",
+            "title":"Monitor",
+            "pic":"https://img.freepik.com/premium-photo/comfortable-working-place-closeup-comfortable-working-place-office-with-wooden-table-laptop-laying-it_308547-7516.jpg?size=626&ext=jpg&ga=GA1.2.1846942561.1682527688&semt=sph",
+            "price":"179"
+        },
+        {
+            "id":"4",
+            "title":"Black Screen Laptop",
+            "pic":"https://img.freepik.com/free-photo/laptop-with-blank-black-screen-white-table_53876-97915.jpg?w=900&t=st=1682683786~exp=1682684386~hmac=76f8634ad4d95de01d261336577454951d66732a8f6e41917e3a05507b4a9db3",
+            "price":"99"
+        },
+        {
+            "id":"5",
+            "title":"Gaming HeadPhone",
+            "pic":"https://img.freepik.com/free-photo/various-wireless-devices-yellow-table_140725-9018.jpg?size=626&ext=jpg&ga=GA1.1.1846942561.1682527688&semt=ais",
+            "price":"239"
+        },
+        {
+            "id":"6",
+            "title":"Photo Graphic Pen",
+            "pic":"https://img.freepik.com/free-photo/graphic-tablet-with-pen-illustrators-designers-isolated-white-background_93675-131030.jpg?w=900&t=st=1682683852~exp=1682684452~hmac=c001e60b0dbf88457a93ad78e0b2f84578e5f10960dba2a17cb66225340ab6b3",
+            "price":"159"
+        },
+        {
+            "id":"7",
+            "title":"curved screen TV",
+            "pic":"https://img.freepik.com/premium-photo/tv-set-with-curved-screen-isolated_172429-992.jpg?w=740",
+            "price":"590"
+        },
+        {
+            "id":"8",
+            "title":"Headphone",
+            "pic":"https://img.freepik.com/free-psd/creative-headphone-mockup_1310-740.jpg?1&w=900&t=st=1682684040~exp=1682684640~hmac=0e22dac92bb8c8ca8fed22eb223460c9a7648399efab0bfdfd10fd30e5540a67",
+            "price":"59"
+        }
+    ],
+    "Fashion":[
+        {
+            "id":"1",
+            "title":"Black T-Shirt",
+            "pic":"https://img.freepik.com/premium-vector/england-vector-t-shirt-design_136545-541.jpg?w=740",
+            "price":"80"
+        },
+        {
+            "id":"2",
+            "title":"Country Style Outfit",
+            "pic":"https://img.freepik.com/premium-photo/top-view-fashionable-dress-ornament-accessories-clutch-shoes-straw-hat-country-style-outfit_161568-3234.jpg?w=740",
+            "price":"58"
+        },
+        {
+            "id":"3",
+            "title":"Female FIt Jeans",
+            "pic":"https://img.freepik.com/premium-photo/female-jeans-mom-fit-isolated-white-background-back-view-jeans-with-high-waist-casual-style_125869-2337.jpg?w=740",
+            "price":"179"
+        },
+        {
+            "id":"4",
+            "title":"Navy Pants",
+            "pic":"https://img.freepik.com/free-photo/casual-men-short-pants_1203-8186.jpg?w=740&t=st=1682685568~exp=1682686168~hmac=0800d866e66f75e786511b02eb87bb615af79cc05b6c5c6a21a0f0ab41279a41",
+            "price":"99"
+        },
+        {
+            "id":"5",
+            "title":"Knitted Sweater",
+            "pic":"https://img.freepik.com/premium-photo/top-view-knitted-sweater-isolated_185193-18907.jpg?w=900",
+            "price":"239"
+        },
+        {
+            "id":"6",
+            "title":"Black Female Hoodie",
+            "pic":"https://img.freepik.com/premium-photo/blank-black-female-hoodie-isolated-white-background_143092-2126.jpg?w=740",
+            "price":"159"
+        },
+        {
+            "id":"7",
+            "title":"Men Gray Hoodie",
+            "pic":"https://img.freepik.com/free-photo/men-s-gray-hoodie-fashion_53876-97865.jpg?w=900&t=st=1682685704~exp=1682686304~hmac=8dfaf40b6cc9f8b360bcc204e916bf0ab569c3fa5c6f99a80d9f38dabe22c6d4",
+            "price":"590"
+        },
+        {
+            "id":"8",
+            "title":"Men Yellow Shirt",
+            "pic":"https://img.freepik.com/free-photo/graphic-shirt-trendy-design-mockup_460848-12971.jpg?w=740&t=st=1682685804~exp=1682686404~hmac=b0a861bb92443f7512d56b2bbcf65ff54828eaf481cdc819f569fb8c72c16bc8",
+            "price":"59"
+        }
+    ],
+    "Toys":[
+        {
+            "id":"1",
+            "title":"Teddy Bear",
+            "pic":"https://img.freepik.com/free-photo/cute-teddy-bear_144627-15238.jpg?w=740&t=st=1682686483~exp=1682687083~hmac=8d5ff437d636aadb5152bbb63e4c20e634853d15dea56b5ecded256c2c968e55",
+            "price":"80"
+        },
+        {
+            "id":"2",
+            "title":"Pull Elephant",
+            "pic":"https://m.media-amazon.com/images/I/71V9UD4TeUL._AC_UL480_FMwebp_QL65_.jpg",
+            "price":"58"
+        },
+        {
+            "id":"3",
+            "title":"Mini BasketBall Game",
+            "pic":"https://m.media-amazon.com/images/I/41Eqnlz9UZL._AC_UL480_FMwebp_QL65_.jpg",
+            "price":"179"
+        },
+        {
+            "id":"4",
+            "title":"Toy Car",
+            "pic":"https://th.bing.com/th/id/OIP.Pg3zonPzYVCsX0tqvoe5ogHaFC?w=212&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+            "price":"99"
+        },
+        {
+            "id":"5",
+            "title":"Puzzles",
+            "pic":"https://img.freepik.com/free-photo/white-puzzle_144627-12525.jpg?size=626&ext=jpg",
+            "price":"239"
+        },
+        {
+            "id":"6",
+            "title":"Toy Drum",
+            "pic":"https://m.media-amazon.com/images/I/41v81y37KoL._AC._SR360,460.jpg",
+            "price":"159"
+        },
+        {
+            "id":"7",
+            "title":"Coading Robot Car",
+            "pic":"https://th.bing.com/th/id/OIP.Z-jk2xNhajefJQoeRAYGxgHaFZ?w=256&h=186&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+            "price":"590"
+        },
+        {
+            "id":"8",
+            "title":"Baby Troller",
+            "pic":"https://th.bing.com/th/id/OIP.6OoPvcXRtcwucG8MJzYLLAHaHa?w=208&h=207&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+            "price":"59"
+        }
+    ],
+    "Education":[
+        {
+            "id":"1",
+            "title":"3D Pencil Case",
+            "pic":"https://m.media-amazon.com/images/I/61qxO0FmLtL._AC_UL480_QL65_.jpg",
+            "price":"80"
+        },
+        {
+            "id":"2",
+            "title":"3D Pencil Case",
+            "pic":"https://m.media-amazon.com/images/I/51IF6qzTv9L._AC_UL480_QL65_.jpg",
+            "price":"58"
+        },
+        {
+            "id":"3",
+            "title":"Computer Networking Book",
+            "pic":"https://m.media-amazon.com/images/I/51vT3X2tdtL._AC_UY327_FMwebp_QL65_.jpg",
+            "price":"179"
+        },
+        {
+            "id":"4",
+            "title":"Puzzle Game",
+            "pic":"https://m.media-amazon.com/images/I/81j3XVDNskL._AC_UL480_FMwebp_QL65_.jpg",
+            "price":"99"
+        },
+        {
+            "id":"5",
+            "title":"Negi Drop",
+            "pic":"https://m.media-amazon.com/images/I/61rMRwApjsL._AC_UL480_FMwebp_QL65_.jpg",
+            "price":"239"
+        },
+        {
+            "id":"6",
+            "title":"Wooden Cube Box",
+            "pic":"https://th.bing.com/th/id/OIP.CdqJw4-dw1ZhQ3NrrrWcrwHaEz?w=297&h=193&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+            "price":"159"
+        },
+        {
+            "id":"7",
+            "title":"Indian Map",
+            "pic":"https://m.media-amazon.com/images/I/61jneAH2IkL._AC_UL480_FMwebp_QL65_.jpg",
+            "price":"590"
+        },
+        {
+            "id":"8",
+            "title":"Physical Education Book",
+            "pic":"https://m.media-amazon.com/images/I/61pUtCemdtL._AC_UY327_FMwebp_QL65_.jpg",
+            "price":"59"
+        }
+    ],
+    "Beauty":[
+        {
+            "id":"1",
+            "title":"Calamine Night Gel",
+            "pic":"https://m.media-amazon.com/images/I/51+PBcMSPiL._AC_UL480_FMwebp_QL65_.jpg",
+            "price":"80"
+        },
+        {
+            "id":"2",
+            "title":"Eye Nourishing Herbs",
+            "pic":"https://m.media-amazon.com/images/I/61VPvydnjGL._AC_UL480_FMwebp_QL65_.jpg",
+            "price":"58"
+        },
+        {
+            "id":"3",
+            "title":"Vitamin C Gel",
+            "pic":"https://m.media-amazon.com/images/I/51cjVSkYdqL._AC_UL480_FMwebp_QL65_.jpg",
+            "price":"179"
+        },
+        {
+            "id":"4",
+            "title":"Beauty Pencil Set",
+            "pic":"https://m.media-amazon.com/images/I/61CQfI2uF8L._AC_UL480_FMwebp_QL65_.jpg",
+            "price":"99"
+        },
+        {
+            "id":"5",
+            "title":"Kendy Lip Bam",
+            "pic":"https://m.media-amazon.com/images/I/51uRwsT29UL._AC_UL480_FMwebp_QL65_.jpg",
+            "price":"239"
+        },
+        {
+            "id":"6",
+            "title":"Pigment Eye Shadow",
+            "pic":"https://m.media-amazon.com/images/I/51Dwx1s7OPL._AC_UL480_FMwebp_QL65_.jpg",
+            "price":"159"
+        },
+        {
+            "id":"7",
+            "title":"Liquid Light Concealer",
+            "pic":"https://m.media-amazon.com/images/I/51yRsJblpFL._AC_UL480_FMwebp_QL65_.jpg",
+            "price":"590"
+        },
+        {
+            "id":"8",
+            "title":"Keratin Shampoo",
+            "pic":"https://m.media-amazon.com/images/I/61TED04B1bL._AC_UL480_FMwebp_QL65_.jpg",
+            "price":"59"
+        }
+    ],
+    "Travel":[
+        {
+            "id":"1",
+            "title":"Zip BagPack",
+            "pic":"https://m.media-amazon.com/images/I/61YF2nQXm8L._AC_UL480_FMwebp_QL65_.jpg",
+            "price":"80"
+        },
+        {
+            "id":"2",
+            "title":"360 Neck Pillow",
+            "pic":"https://m.media-amazon.com/images/I/71eQtSSzyjL._AC_UL480_FMwebp_QL65_.jpg",
+            "price":"58"
+        },
+        {
+            "id":"3",
+            "title":"Basic Duffle",
+            "pic":"https://m.media-amazon.com/images/I/81q3vXy1zwL._AC_UL480_FMwebp_QL65_.jpg",
+            "price":"179"
+        },
+        {
+            "id":"4",
+            "title":"Dust Cover",
+            "pic":"https://m.media-amazon.com/images/I/61Gwt4JkRWL._AC_UL480_FMwebp_QL65_.jpg",
+            "price":"99"
+        },
+        {
+            "id":"5",
+            "title":"Travel Umbrella",
+            "pic":"https://m.media-amazon.com/images/I/51NUI75Rt2L._AC_UL480_FMwebp_QL65_.jpg",
+            "price":"239"
+        },
+        {
+            "id":"6",
+            "title":"Waist Bag",
+            "pic":"https://m.media-amazon.com/images/I/71MT1XBQi-L._AC_UL480_FMwebp_QL65_.jpg",
+            "price":"159"
+        },
+        {
+            "id":"7",
+            "title":"Cosmetic Travel Bag",
+            "pic":"https://m.media-amazon.com/images/I/51c9zqMtJGL._AC_UL480_FMwebp_QL65_.jpg",
+            "price":"590"
+        },
+        {
+            "id":"8",
+            "title":"First Aid Kit",
+            "pic":"https://m.media-amazon.com/images/I/61yz+wXk9dL._AC_UL480_FMwebp_QL65_.jpg",
+            "price":"59"
+        }
+    ],
+    "Fitness":[
+        {
+            "id":"1",
+            "title":"Aerobics Stepper",
+            "pic":"https://m.media-amazon.com/images/I/51+ZQO5fiSL._AC_UL480_FMwebp_QL65_.jpg",
+            "price":"80"
+        },
+        {
+            "id":"2",
+            "title":"20Kg DumbbellSet",
+            "pic":"https://m.media-amazon.com/images/I/61o45VNNy-L._AC_UL480_FMwebp_QL65_.jpg",
+            "price":"58"
+        },
+        {
+            "id":"3",
+            "title":"Hand Grip Strengthener",
+            "pic":"https://m.media-amazon.com/images/I/51df0s6DzmL._AC_UL480_FMwebp_QL65_.jpg",
+            "price":"179"
+        },
+        {
+            "id":"4",
+            "title":"Sit Ups Bar",
+            "pic":"https://m.media-amazon.com/images/I/61nX-qFqz7L._AC_UL480_FMwebp_QL65_.jpg",
+            "price":"99"
+        },
+        {
+            "id":"5",
+            "title":"Tummy Trimmer",
+            "pic":"https://m.media-amazon.com/images/I/61T3P3+4KSL._AC_UL480_FMwebp_QL65_.jpg",
+            "price":"239"
+        },
+        {
+            "id":"6",
+            "title":"Foam Roller",
+            "pic":"https://m.media-amazon.com/images/I/51YjFzmFwTL._AC_UL480_FMwebp_QL65_.jpg",
+            "price":"159"
+        },
+        {
+            "id":"7",
+            "title":"Sparnod Fitness Cycle",
+            "pic":"https://m.media-amazon.com/images/I/51kGEkl2OPL._AC_UL480_FMwebp_QL65_.jpg",
+            "price":"590"
+        },
+        {
+            "id":"8",
+            "title":"Skipping Rope",
+            "pic":"https://m.media-amazon.com/images/I/71l2-gWOnpL._AC_UL480_FMwebp_QL65_.jpg",
+            "price":"59"
+        }
+    ],
+    "Furniture":[
+        {
+            "id":"1",
+            "title":"Indoor Furniture",
+            "pic":"https://m.media-amazon.com/images/I/717F9YbUYvL._AC_UL480_FMwebp_QL65_.jpg",
+            "price":"80"
+        },
+        {
+            "id":"2",
+            "title":"Coffee Table",
+            "pic":"https://m.media-amazon.com/images/I/51Bcpb7uF2L._AC_UL640_QL65_.jpg",
+            "price":"58"
+        },
+        {
+            "id":"3",
+            "title":"Sofa Cum Bed",
+            "pic":"https://m.media-amazon.com/images/I/713VTIhCfOL._AC_UL480_FMwebp_QL65_.jpg",
+            "price":"179"
+        },
+        {
+            "id":"4",
+            "title":"Portable Chair",
+            "pic":"https://m.media-amazon.com/images/I/91u8XPX9+5L._AC_UL480_FMwebp_QL65_.jpg",
+            "price":"99"
+        },
+        {
+            "id":"5",
+            "title":"Foldable Table",
+            "pic":"https://m.media-amazon.com/images/I/513I7-J-HqL._AC_UL480_FMwebp_QL65_.jpg",
+            "price":"239"
+        },
+        {
+            "id":"6",
+            "title":"Wall Shelf",
+            "pic":"https://m.media-amazon.com/images/I/71D1tAkW-HL._AC_UL480_FMwebp_QL65_.jpg",
+            "price":"159"
+        },
+        {
+            "id":"7",
+            "title":"Bathroom Robes",
+            "pic":"https://m.media-amazon.com/images/I/812KW3pI1eL._AC_UL480_FMwebp_QL65_.jpg",
+            "price":"590"
+        },
+        {
+            "id":"8",
+            "title":"Wooden Couch Sofa",
+            "pic":"https://m.media-amazon.com/images/I/61+OSo2U8uL._AC_UL480_FMwebp_QL65_.jpg",
+            "price":"59"
+        }
+    ],
+    "Sneakers":[
+        {
+            "id":"1",
+            "title":"RedTape",
+            "pic":"https://m.media-amazon.com/images/I/51+E3G7wevL._AC_UL480_FMwebp_QL65_.jpg",
+            "price":"80"
+        },
+        {
+            "id":"2",
+            "title":"Puma",
+            "pic":"https://m.media-amazon.com/images/I/71PbucEv+tS._AC_UL480_FMwebp_QL65_.jpg",
+            "price":"58"
+        },
+        {
+            "id":"3",
+            "title":"Centrino",
+            "pic":"https://m.media-amazon.com/images/I/61sWP8CfzjL._AC_UL480_FMwebp_QL65_.jpg",
+            "price":"179"
+        },
+        {
+            "id":"4",
+            "title":"US Polo Ass.",
+            "pic":"https://m.media-amazon.com/images/I/612Qj0r-yaL._AC_UL480_FMwebp_QL65_.jpg",
+            "price":"99"
+        },
+        {
+            "id":"5",
+            "title":"Bacca Bucci",
+            "pic":"https://m.media-amazon.com/images/I/71O6djFBtsL._AC_UL480_FMwebp_QL65_.jpg",
+            "price":"239"
+        },
+        {
+            "id":"6",
+            "title":"Kraasa",
+            "pic":"https://m.media-amazon.com/images/I/71bAepMLVVL._AC_UL480_FMwebp_QL65_.jpg",
+            "price":"159"
+        },
+        {
+            "id":"7",
+            "title":"Sparx",
+            "pic":"https://m.media-amazon.com/images/I/818Nxe+HOpL._AC_UL480_FMwebp_QL65_.jpg",
+            "price":"590"
+        },
+        {
+            "id":"8",
+            "title":"Adidas",
+            "pic":"https://m.media-amazon.com/images/I/61Wzo6bmsSL._AC_UL480_FMwebp_QL65_.jpg",
+            "price":"59"
+        }
+    ],
+    "services":[
+        {
+            "id":"1",
+            "title":"Frequently Asked Questions",
+            "desc":"Updates on sage shopping in our Stores",
+            "pic":"https://img.freepik.com/free-photo/young-female-operator-consulatant-has-headphones-looks-laptop-computer-makes-video-calls-uses-high-speed-internet-connection_176532-9344.jpg?size=626&ext=jpg&ga=GA1.1.1846942561.1682527688&semt=sph"
+        },
+        {
+            "id":"2",
+            "title":"Online Payment Process",
+            "desc":"Updates on sage shopping in our Stores",
+            "pic":"https://img.freepik.com/free-photo/pay-goods-by-credit-card-through-smartphone-coffee-shop_1150-18770.jpg?size=626&ext=jpg&ga=GA1.1.1846942561.1682527688&semt=sph"
+        },
+        {
+            "id":"3",
+            "title":"Home Delivery Options",
+            "desc":"Updates on sage shopping in our Stores",
+            "pic":"https://img.freepik.com/free-photo/happy-deliverer-carrying-packages-while-making-home-delivery-his-customer_637285-1282.jpg?size=626&ext=jpg&ga=GA1.1.1846942561.1682527688&semt=sph"
+        }
+    ]
+
+}
+
